@@ -32,6 +32,10 @@ body.hide #content {
 	display: block !important;
 }
 
+h1 {
+	color: #00B0FF;
+}
+
 #content {
 	position: absolute; 
 	border: 0 none;
