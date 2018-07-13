@@ -9,6 +9,8 @@ TOUCHUI_DIR="TouchUI-autostart"
 # And what xinit file are we looking for
 TOUCHUI_FILE="chromium.xinit"
 
+ORTHOPRINT_PORT=3000
+
 # Path to the xinit executable, use this to override the default setting "/usr/bin/xinit"
 #DAEMON=/path/to/xinit/executable
 
