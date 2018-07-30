@@ -31,4 +31,4 @@ START=yes
 FORCE_TOUCH=false
 
 # Enable or disable the screensaver
-DISABLE_SCREENSAVER=false
+DISABLE_SCREENSAVER=true
